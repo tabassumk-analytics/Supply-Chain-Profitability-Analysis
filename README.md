@@ -29,20 +29,20 @@ Designed an **Executive Command Center** using the "F-Pattern" layout for rapid 
 * **Root Cause Analysis (Bar Chart):** A sorted view identifying **"Strength Training"** as the primary loss leader (-107.8% Margin).
 * **Financial Health Trend:** A longitudinal analysis proving the company maintains net-positive profitability despite category-specific losses.
 
----
+-----------
 
 ## 🚀 Key Findings
 1.  **The Trap:** The **"Strength Training"** category is a critical deadweight, operating at a **-107.8% margin** despite high sales volume.
 2.  **The Risk Zone:** Regions with an average shipping time **>4 days** (e.g., Southern Africa, Central Asia) show a strong correlation with negative profitability.
 3.  **The Stability:** Despite these leaks, the overall business model remains healthy with a **10.8% Net Margin** ($3.8M Profit).
 
----
+-----------
 
 ## 💻 Technical Stack
 * **SQL (PostgreSQL):** CTEs, Window Functions, Joins.
 * **Tableau Public:** Advanced Visualizations, LOD Expressions, Dashboard Actions.
 * **Python:** Pandas for initial data profiling.
 
----
+------------
 
 *Author: Tabassum K.* *Senior Business Data Analyst Portfolio*
