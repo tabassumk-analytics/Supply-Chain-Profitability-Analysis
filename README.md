@@ -41,7 +41,7 @@ Designed an **Executive Command Center** using the "F-Pattern" layout for rapid 
 
 ---
 ## 📂 Data Source
-The analysis is based on the **Global Superstore** dataset, a standard benchmark for retail and supply chain analytics.
+The analysis is based on the **Global Superstore** dataset
 * **Format:** CSV
 * **Size:** 51,000+ rows
 * **Source:** [Download Dataset via Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-superstore-dataset)
