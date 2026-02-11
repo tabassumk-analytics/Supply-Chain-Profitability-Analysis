@@ -39,6 +39,12 @@ Designed an **Executive Command Center** using the "F-Pattern" layout for rapid 
 * **Tableau Public:** Advanced Visualizations, LOD Expressions, Dashboard Actions.
 * **Python:** Pandas for initial data profiling.
 
+---
+## 📂 Data Source
+The analysis is based on the **Global Superstore** dataset, a standard benchmark for retail and supply chain analytics.
+* **Format:** CSV
+* **Size:** 51,000+ rows
+* **Source:** [Download Dataset via Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-superstore-dataset)
 --
 
 *Author: Tabassum K.* *Senior Business Data Analyst Portfolio*
