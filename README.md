@@ -39,7 +39,7 @@ Designed an **Executive Command Center** using the "F-Pattern" layout for rapid 
 * **Tableau Public:** Advanced Visualizations, LOD Expressions, Dashboard Actions.
 * **Python:** Pandas for initial data profiling.
 
----
+
 ## 📂 Data Source
 The analysis is based on the **Global Superstore** dataset
 * **Format:** CSV
