@@ -1,8 +1,7 @@
 # Identifying Profit Leakage in High-Volume Logistics 
 ### Strategic Assessment: Supply Chain Risk & Margin Analysis
 
-**Dashboard Link:** [View Interactive Tableau Dashboard] https://public.tableau.com/views/IdentifyingProfitLeakageinHigh-VolumeLogistics/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+**Dashboard Link:** [View Interactive Tableau Dashboard] https://tinyurl.com/bdfz6kch
 
 ## Business Problem
 The Global Supply Chain division generates **$35.2M in revenue** but faces unexplained margin erosion in specific sectors. Stakeholders lacked visibility into how **operational inefficiencies** (specifically shipping delays) were impacting **net profitability** across different global regions.
